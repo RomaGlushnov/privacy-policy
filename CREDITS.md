@@ -15,7 +15,7 @@ https://opengameart.org/content/city-parallax-background-with-buildings-pixel-ar
 https://kayillustrations.itch.io/parallax-sunset-mountains by kayillustrations<br>
 
 **Fonts**<br>
-link: https://www.fontspace.com/flappy-bird-font-f21349<br>
-https://fonts-online.ru/fonts/minecraft-rus BOGDAN Software<br>
-https://fonts.google.com/share?selection.family=Varela+Round<br>
-Varela Round Font — The Varela Round Project Authors (SIL OFL 1.1)
+Flappy Bird Font  link: https://www.fontspace.com/flappy-bird-font-f21349<br>
+MineCraft Font https://fonts-online.ru/fonts/minecraft-rus BOGDAN Software<br>
+Varela Round Font https://fonts.google.com/share?selection.family=Varela+Round<br>  — The Varela Round Project Authors (SIL OFL 1.1)
+
