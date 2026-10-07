@@ -1,4 +1,4 @@
-**Icons, UI **<br>
+**Icons, UI**<br>
 Owl ico - https://www.vecteezy.com/vector-art/86635369-owl-silhouette-icon-set-perched-on-branch-and-flying-with-spread-wings-wildlife-bird-illustration-collection by Vecteezy Shipra Das<br>
 Feathers icons https://www.vecteezy.com/vector-art/85966044-ethnic-indigenous-bird-feathers-icons-set by Vecteezy Anzhela Buch<br>
 Ui menu elements https://assetstore.unity.com/packages/2d/gui/fun-mobile-casual-ui-pro-309671 by Gelzo Games Sutana4<br>
