@@ -5,7 +5,6 @@ Ui menu elements https://assetstore.unity.com/packages/2d/gui/fun-mobile-casual-
 
 **Sounds**<br>
 **Game sounds**<br>
-https://www.myinstants.com/en/search/?name=flappy%20bird<br>
 Menu https://soundcloud.com/flappybirdagain/flapps-x-imbattable?in=flappybirdagain/sets/afro-trap&si=2a3bd4c57e594d8e9972b57c51e82af2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing Flappy Bird Big Bandz<br>
 Main game background https://soundcloud.com/djag-4/donkey-kong-country-theme-dj-ag-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing by DJ AG<br>
 
