@@ -1,4 +1,4 @@
-Privacy Policy for Flappy Bird - Revival
+Privacy Policy for Tapping Birds - Revival
 
 Gothesk Games built the Flappy Bird - Revival app as a Free app. This SERVICE is provided by Gothesk Games at no cost and is intended for use as is.
 
