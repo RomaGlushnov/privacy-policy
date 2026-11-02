@@ -26,4 +26,4 @@ We may update our Privacy Policy. You are advised to review this page periodical
 Contact Us
 If you have any questions, contact us at: gothesk.games@gmail.com
 
-Effective Date: September 25, 2026
+Effective Date: November 2, 2026
